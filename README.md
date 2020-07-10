@@ -8,9 +8,9 @@ O layout produzido foi feito por mim mesmo Marlon Symczecym, e front end e back 
 
 No projeto foi utilizado:
 
--CSS3
--HTML5
--JS(Jquery)
--FontAwesome 5
--PHP 7.4
--SQL (Mysql)
+- CSS3
+- HTML5
+- JS(Jquery)
+- FontAwesome 5
+- PHP 7.4
+- SQL (Mysql)
