@@ -14,3 +14,5 @@ No projeto foi utilizado:
 - FontAwesome 5
 - PHP 7.4
 - SQL (Mysql)
+
+O projeto não está responsivo, por que o objetivo central era o back end, ele será feito e ajustado mais para frente, em novas versões.
